@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+.game-container {
+    margin-top: 50px;
+}
+.multiplier-display {
+    font-size: 24px;
+    margin: 20px 0;
+}
+.controls input, .controls button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+}
+.result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: green;
+}
